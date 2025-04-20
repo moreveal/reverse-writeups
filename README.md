@@ -7,6 +7,7 @@ Each writeup includes detailed static/dynamic analysis, decompiled snippets, and
 ## 📁 Writeups
 
 - [LovelyMalware](./lovely-malware) — ransomware reverse engineering and decryption logic reconstruction (HTB Sherlock)
+- [PRNGPattern](./prng-pattern-recovery) — reconstruction of game RNG seed and password via partial output leaks
 
 > All research is done in isolated environments. **Never run attached binaries on your real machine.**
 
